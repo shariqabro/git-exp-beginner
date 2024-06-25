@@ -1,0 +1,71 @@
+.body{
+    background-color: gray;
+}
+.head{
+    background-color: darkgray;
+    color: black;
+}
+.div-1{
+    background-color: darkblue;
+    color: black;
+}
+.div-2{
+    background-color: lightskyblue;
+    color: black;
+}
+.div-3{
+    background-color: lightskyblue;
+    color: black;
+}
+.div-4{
+    background-color: lightblue;
+    color: black;
+}
+.div-5{
+    background-color: lightblue;
+    color: black;
+}
+.div-6{
+    background-color: lightgoldenrodyellow;
+    color: black;
+}
+.div-7{
+    background-color: lightgoldenrodyellow;
+    color: black;
+}
+.div-8{
+    background-color: green;
+    color: black;
+}
+.div-9{
+    background-color: palevioletred;
+    color: black;
+}
+.div-10{
+    background-color: palevioletred;
+    color: black;
+}
+.div-11{
+    background-color: pink;
+    color: black;
+}
+.div-12{
+    background-color: pink;
+    color: black;
+}
+.div-13{
+    background-color: aqua;
+    color: black;
+}
+.div-14{
+    background-color: aqua;
+    color: black;
+}
+.div-15{
+    background-color: yellow;
+    color: black;
+}
+*{
+    margin: 0px;
+    padding: 5px;
+}
